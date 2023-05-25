@@ -5,7 +5,9 @@ Hi there 👋, My name is Mehedi Hasan
 A fulltime WordPress Developer at Envato.
 </h4>
 
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EF797&center=true&width=650&height=60&lines=Hello%2C+I+am+Mehedi+Hasan+Nahid.;I+am+a+WordPress+Developer.;I+have+more+then+8+years+Experience.;I+am+expert+in+WordPress+Themes+%26+Plugin+Developemnt.;Have+any+custom+project+just+knock+me.;Thanks!)](https://git.io/typing-svg)
+</p>
 
 ![I am a WordPress Developer at Envato](https://scontent.fdac37-1.fna.fbcdn.net/v/t31.18172-8/19055128_1207826099325931_4915955212792819263_o.jpg?_nc_cat=102&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeHGdqQTm0l8YN2kOPCZ0XricLvYMa_7Njhwu9gxr_s2OJR2re0GfybWNixEDiyII7f7_AWOrdRTmHD2BgDzTVXd&_nc_ohc=V9pxDmufuo0AX_tCws_&_nc_ht=scontent.fdac37-1.fna&oh=00_AfCdpMjOpZ0XkjM6URH_97SyQ9pZN36Hxvt9ilv7m3EjSQ&oe=6496DFF5)
 
