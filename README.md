@@ -1,7 +1,9 @@
-<div style="text-algin:center;">
+<h2 align="center">
 ## Hi there 👋, My name is Mehedi Hasan
+</h2>
+<h4 align="center">
 #### I am a WordPress Developer at Envato
-</div>
+</h4>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EF797&center=true&width=650&height=60&lines=Hello%2C+I+am+Mehedi+Hasan+Nahid.;I+am+a+WordPress+Developer.;I+have+more+then+8+years+Experience.;I+am+expert+in+WordPress+Themes+%26+Plugin+Developemnt.;Have+any+custom+project+just+knock+me.;Thanks!)](https://git.io/typing-svg)
 
